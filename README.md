@@ -1,5 +1,4 @@
-# PCLC
-The official code for Pyramid Contrastive Learning for Clustering
+
 # Pyramid Contrastive Learning for Clustering
 
 This is the code for the paper "Pyramid Contrastive Learning for Clustering".
